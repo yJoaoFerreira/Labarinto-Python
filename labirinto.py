@@ -12,5 +12,6 @@
 # 01. Declarar um labirinto;
 # 02. Achar a entrada;
 # 03. Achar a saída;
+# 04. Achar o melhor caminho;
 
 print("Hello World")
